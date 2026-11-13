@@ -29,3 +29,4 @@ p4a.bootstrap = sdl2
 
 log_level = 2
 warn_on_root = 1
+
