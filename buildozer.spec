@@ -16,8 +16,15 @@ orientation = portrait
 fullscreen = 0
 
 android.permissions = INTERNET
-android.archs = arm64-v8a, armeabi-v7a
+android.archs = arm64-v8a
+
+android.api = 35
+android.minapi = 24
+android.ndk = 28c
 android.accept_sdk_license = True
+
+p4a.bootstrap = sdl2
+
 [buildozer]
 
 log_level = 2
